@@ -4,6 +4,8 @@ body {
 
 h1 {
   font-size: 4rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .container {
@@ -13,6 +15,12 @@ h1 {
 }
 
 .heading {
+  text-align: center;
+  }
+
+.sub-heading {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
   text-align: center;
 }
 
@@ -34,11 +42,11 @@ h1 {
 }
 
 #image {
-  width: 600px;
+  width: 40%;
 }
 
 #img-caption {}
 
 #tribute-info {
-  width: 600px;
+  width: 40%;
 }
