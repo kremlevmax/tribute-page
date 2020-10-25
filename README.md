@@ -1,7 +1,4 @@
-# Tribute Page
- freecodecamp.org: Responsive Web Design Projects - Build a Tribute Page
- 
- Tags: Flexbox
+Tags: Flexbox
 
 <b>User Stories:</b>
 
