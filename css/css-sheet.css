@@ -1,40 +1,42 @@
 body {
-    text-align: center;
-    font-family: BlinkMacSystemFont;
-}
-h1 {
-    margin-bottom: 0;
-    font-size: 4rem;
-}
-#image {
-    max-width: 100%;
-    display: block;
-    margin: 0 auto;
-    height: auto;
-}
-#img-div {
-    background: #fcece6;
-    padding: 0px 450px 5px 450px;
-}
-#main {
-    margin: 20px 5px;
-    border-radius: 5px;
-    padding: 15px;
-    background: #ffd4c4;
-}
-#img-caption {
-  margin: 10px;
+  font-family: BlinkMacSystemFont;
 }
 
-ul {
-  max-width: 550px;
-  margin: 0 auto 50px auto;
-  text-align: left;
+h1 {
+  font-size: 4rem;
 }
-li {
-    margin: 15px 0;
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
 }
-#headline {
-  margin: 50px 0;
+
+.heading {
   text-align: center;
+}
+
+#main {
+  margin: 20px 5px;
+  border-radius: 5px;
+  padding: 15px;
+  background: #ffd4c4;
+}
+
+#img-div {
+  background: #fcece6;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#image {
+  width: 600px;
+}
+
+#img-caption {}
+
+#tribute-info {
+  width: 600px;
 }
