@@ -16,7 +16,7 @@ h1 {
 
 .heading {
   text-align: center;
-  }
+}
 
 .sub-heading {
   margin-top: 4rem;
@@ -29,7 +29,6 @@ h1 {
   border-radius: 5px;
   padding: 15px;
   background: #ffd4c4;
-
 }
 
 #img-div {
@@ -38,7 +37,6 @@ h1 {
   justify-content: center;
   text-align: center;
   width: 100%;
-
 }
 
 #image {
